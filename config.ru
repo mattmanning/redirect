@@ -1,0 +1,3 @@
+require './redirect'
+
+run Redirect
